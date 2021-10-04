@@ -52,6 +52,8 @@ Outbound: the software connects to another system or component, and it contains 
     });
     connection.connect();
 ```
+
+
 ### Recommended Secure Coding Practices
 1. Store the credentials in a configuration file that is not pushed to the code repository.
 2. Store the credentials in a database.
