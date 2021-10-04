@@ -10,6 +10,6 @@
 ---
 
 # My Blog
-[[blog]]
+[blog](https://github.com/wahyuhadi/me/blob/main/Blog/blog.md)
 
 
