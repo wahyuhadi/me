@@ -40,7 +40,6 @@ $ docker run --rm -v "${PWD}:/src" returntocorp/semgrep --help
 
 
 
-&nbsp;
 ##### Creating rules with semgrep
 ---
 please visit this url [https://semgrep.dev/editor](https://semgrep.dev/editor)
