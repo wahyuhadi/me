@@ -7,9 +7,7 @@
 	The software contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data.  
 </p>
 
-
-
- <p style="text-align: justify; letter-spacing: 0.002em;">
+<p style="text-align: justify; letter-spacing: 0.002em;">
 Hard-coded credentials typically create a significant hole that allows an attacker to bypass the authentication that has been configured by the software administrator. This hole might be difficult for the system administrator to detect. Even if detected, it can be difficult to fix, so the administrator may be forced into disabling the product entirely. There are two main variations:
 </p>
 
@@ -28,7 +26,6 @@ Outbound: the software connects to another system or component, and it contains 
 
 ```js
     var mysql = require('mysql');
-
     var connection = mysql.createConnection(
     {
         host:'localhost',
@@ -37,13 +34,12 @@ Outbound: the software connects to another system or component, and it contains 
         password: "mypassword", // sensitive
         multipleStatements: true
     });
-
     connection.connect();
 ```
+
 * compliant solution
 ```js
     var mysql = require('mysql');
-
     var connection = mysql.createConnection({
         host: process.env.MYSQL_URL,
         user: process.env.MYSQL_USERNAME,
@@ -59,6 +55,7 @@ Outbound: the software connects to another system or component, and it contains 
 2. Store the credentials in a database.
 3. Use your cloud provider’s service for managing secrets.
 4. If the a password has been disclosed through the source code: change it.
+
 
 ### Ask Yourself Whether
 1. Credentials allows access to a sensitive component like a database, a file storage, an API or a service.
