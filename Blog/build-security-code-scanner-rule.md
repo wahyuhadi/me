@@ -1,12 +1,16 @@
-<br>
-	<p align="center">
-		<a href="https://semgrep.dev"><img src="https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg" height="100" alt="Semgrep logo"/></a>
-	</p>
-	<h3 align="center">
+
+<p align="center">
+		<a href="https://semgrep.dev">
+			<img src="https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg" height="100" alt="Semgrep logo"/>
+		</a>
+</p>
+<h3 align="center">
 	  Lightweight static analysis for many languages.
 	  Find bugs and enforce code standards.
-	</h3>
-</br>
+</h3>
+
+&nbsp;
+
 
 <p style="text-align: justify; letter-spacing: 0.002em;">
 Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time.</p>
