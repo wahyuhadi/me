@@ -21,7 +21,8 @@ Outbound: the software connects to another system or component, and it contains 
 </p>
 
 
-## Example hardcoded credential 
+## Example hardcoded credential
+
 * Sensitive Code Example
 
 ```js
@@ -36,6 +37,7 @@ Outbound: the software connects to another system or component, and it contains 
     });
     connection.connect();
 ```
+
 
 * compliant solution
 ```js
