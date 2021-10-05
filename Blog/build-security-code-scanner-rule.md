@@ -9,7 +9,7 @@
 	  Find bugs and enforce code standards.
 </h3>
 
-&nbsp;
+---
 
 
 <p style="text-align: justify; letter-spacing: 0.002em;">
