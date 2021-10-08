@@ -1,10 +1,12 @@
- # Fuzzing With Go-Fuzz
-
----
+ #  Fuzzing With gofuzz
+ 
+ 
+ ---
  <p style="text-align: justify; letter-spacing: 0.002em;">
 Fuzzing is a testing technique that loads our program with random data. It is <b>complementary to the usual testing</b> developers to find bugs that would be hard to find with manual generated input. Fuzzing is quite easy to set up in Go programs and can be adapted to almost all kinds of code.
 </p>
 
+&nbsp;
 
 ##### How to install go-fuzz
 ---
@@ -15,6 +17,8 @@ $ go get -u github.com/dvyukov/go-fuzz/go-fuzz@latest github.com/dvyukov/go-fuzz
 
 
 for details [go-fuzz](https://github.com/dvyukov/go-fuzz)
+&nbsp;
+&nbsp;
 
 ##### Example how to test 
 ---
@@ -77,8 +81,8 @@ $ tree
 
 1 directory, 6 files
 ```
-
-##### Fuzzing
+&nbsp;
+##### Fuzzing time
 ----
 Now we can run go-fuzz.
 
@@ -126,4 +130,4 @@ and the result is:
 4 directories, 11 files
 ```
 
-if you got the crash you can change the result in folder crash
+if you got the crash you can see the result in folder crash.	
