@@ -1,8 +1,9 @@
  # Fuzzing With go-fuzz
+ &nbsp
  [![GoDoc](https://godoc.org/github.com/google/gofuzz?status.svg)](https://godoc.org/github.com/google/gofuzz)
-
  
- ---
+---
+ 
  <p style="text-align: justify; letter-spacing: 0.002em;">
 Fuzzing is a testing technique that loads our program with random data. It is <b>complementary to the usual testing</b> developers to find bugs that would be hard to find with manual generated input. Fuzzing is quite easy to set up in Go programs and can be adapted to almost all kinds of code.
 </p>
