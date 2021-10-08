@@ -1,7 +1,7 @@
 # Fuzzing golang with go-fuzz
  ---
  &nbsp;
- [![GoDoc](https://godoc.org/github.com/google/gofuzz?status.svg)](https://godoc.org/github.com/google/gofuzz)
+[![GoDoc](https://godoc.org/github.com/google/gofuzz?status.svg)](https://godoc.org/github.com/google/gofuzz)
  
 
  
@@ -65,10 +65,11 @@ func Fuzz(data []byte) int {
 	return 0
 }
 ```
-<p style="text-align: justify; letter-spacing: 0.002em;">
-after that run go-fuzz-build  projectname/package to make the magic blob</p>
 
-example : go-fuzz-build fuzz/add in this case i will fuzz the package add
+<p style="text-align: justify; letter-spacing: 0.002em;">
+After that run go-fuzz-build  projectname/package to make the magic blob</p>
+
+<b>Example </b>: `go-fuzz-build fuzz/add` in this case i will fuzz the package add
 	
 ```sh
 $ go-fuzz-build fuzz/add
