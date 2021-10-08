@@ -13,3 +13,10 @@
 ---
 1. [build-security-code-scanner-rule](https://wahyuhadi.github.io/me/Blog/build-security-code-scanner-rule)    -  Semgrep
 - <p style="text-align: justify; letter-spacing: 0.002em;"> Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. </p>
+
+
+&nbsp; 
+### DEBUGGING
+---
+1. [fuzzing-go-fuzz](https://wahyuhadi.github.io/me/Blog/fuzzing-go-fuzz)  -  go-fuzz
+- <p style="text-align: justify; letter-spacing: 0.002em;"> Breaking evertything with random input a.k.a Fuzzing </p>
