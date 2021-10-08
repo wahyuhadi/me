@@ -1,4 +1,4 @@
- #  Fuzzing With gofuzz
+ # Fuzzing With go-fuzz
  
  
  ---
@@ -74,7 +74,7 @@ $ tree
 ├── add
 │   ├── add.go
 │   └── fuzz.go
-├── add-fuzz.zip // generate fuzzing payload
+├── add-fuzz.zip // generated fuzzing payload
 ├── apps.go
 ├── go.mod
 └── go.sum
