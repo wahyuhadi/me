@@ -1,5 +1,6 @@
  # Fuzzing With go-fuzz
- 
+ [![GoDoc](https://godoc.org/github.com/google/gofuzz?status.svg)](https://godoc.org/github.com/google/gofuzz)
+
  
  ---
  <p style="text-align: justify; letter-spacing: 0.002em;">
