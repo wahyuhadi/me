@@ -134,4 +134,6 @@ and the result is:
 4 directories, 11 files
 ```
 
-if you got the crash you can see the result in folder crash.	
+<p style="text-align: justify; letter-spacing: 0.002em;">
+If you got the crash you can see the result in folder crash, in this case  nothing crash found.	
+</p>
