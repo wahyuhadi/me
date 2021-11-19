@@ -30,7 +30,7 @@ The 10 TLS Client Hello packets in JARM have been specially crafted to pull out 
 
 for example i have create simple tools to identify C2 servers with mallicious jarm list
 
-```json
+```go
     var IsDB = []Metadata{
         Metadata{
             Hash: "07d14d16d21d21d00042d43d000000aa99ce74e2c6d013c745aa52b5cc042d",
@@ -62,10 +62,9 @@ go get -u -v github.com/RumbleDiscovery/jarm-go/cmd/jarmscan
 ```
 
 - install simple detections
-```
+```sh
 git clone https://github.com/wahyuhadi/find-c2
 cd find-c2
-
 ```
 
 as sample i will scan subnet in 159.65.136.1/24 network to find mallicious server.
@@ -75,5 +74,5 @@ and run command inside a folder find-c2
 jarmscan -p 443 159.65.136.1/24  | go run apps.go
 ```
 
-Found merlin-c2 in IP 159.65.136.248 with port 443
+Found merlin-c2 in IP 159.65.136.248 with port 443 
 ![Jarm](./assets/jarmfind.png)
