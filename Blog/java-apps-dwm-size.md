@@ -3,8 +3,7 @@
  &nbsp;
  ---
 <p style="text-align: justify; letter-spacing: 0.002em;">
-pada saat membuka applikasi desktop berbasis java pada DWM, sering kali mendapatkan issue mengenai size dari applikasi yang tak sesuai, lantas bagaimana cara fixing nya : sebanarnya cukup simple hanya dengan menambahkan export _JAVA_AWT_WM_NONREPARENTING=1 pada file .xinitrc
-sebagai contoh1
+pada saat membuka applikasi desktop berbasis java pada DWM, sering kali mendapatkan issue mengenai size dari applikasi yang tak sesuai, lantas bagaimana cara fixing nya sebanarnya cukup simple hanya dengan menambahkan export _JAVA_AWT_WM_NONREPARENTING=1 pada file .xinitrc sebagai contoh:
 </p>
 
 ```sh
