@@ -21,7 +21,7 @@
 1. [fuzzing-go-fuzz](https://wahyuhadi.github.io/me/Blog/fuzzing-go-fuzz)  -  go-fuzz
 - <p style="text-align: justify; letter-spacing: 0.002em;"> Breaking evertything with random input a.k.a Fuzzing </p>
 
-2. [fuzzing-go-fuzz](https://wahyuhadi.github.io/me/Blog/fuzzing-go-fuzz)  -  go-fuzz
+2. [fuzzing](https://wahyuhadi.github.io/me/Blog/fuzzing)  -  Fuzzing a.k.a The Powerfull Testing
 - <p style="text-align: justify; letter-spacing: 0.002em;"> F-U-Z-Z-I-N-G (bahasa indonesia) </p>
 
 &nbsp; 

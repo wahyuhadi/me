@@ -11,6 +11,6 @@
 
 # My Blog
 
-whatever I learn about new things, it's written here [blog](https://wahyuhadi.github.io/me/Blog/blog)
+Whatever I learn about new things, it's written here [blog](https://wahyuhadi.github.io/me/Blog/blog)
 
 &nbsp;
