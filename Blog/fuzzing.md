@@ -24,8 +24,11 @@ Pertanyaan ini sering sekali ditanyakan ketika kita baru akan melakukan fuzzing 
 Dimana fuzzing function kita bisa melakukan full control pada function tersebut,biasanya fuzzing pada function ini bertujan untuk mencari bug / membuat 0day exploit dengan methode white box (kita bisa melihat behavioral dari internal log apps). 
 </p>
 <p style="text-align: justify; letter-spacing: 0.002em;">
-Nah beda lagi dengan technik fuzzing REST API biasanya sering digunakan untuk melakukan debuging pada sebuah framework atau ORM yang ready to use, akan jauh lebih bagus ketika kita bisa melihat log dari sebuah framework yang difuzzing, apalagi ketika kita melakukan fuzzing ORM melalui inputan REST API akan sangat lebih mudah ketika kita bisa melihat raw Query yang di generate oleh ORM. Namun perlu diingat fuzzing ini terkadang pada REST API bisa membuat server crash A.K.A Internal Server Error untuk lebih jelasnya bisa di lihat pada link berikut teknik fuzzing pada REST API  <a href="https://www.youtube.com/watch?v=Gb3Lb4gRtXk">Youtube Fuzzing REST API</a>
+Nah beda lagi dengan technik fuzzing REST API biasanya sering digunakan untuk melakukan debuging pada sebuah framework atau ORM yang ready to use, akan jauh lebih bagus ketika kita bisa melihat log dari sebuah framework yang difuzzing, apalagi ketika kita melakukan fuzzing ORM melalui inputan REST API akan sangat lebih mudah ketika kita bisa melihat raw Query yang di generate oleh ORM. Namun perlu diingat fuzzing ini terkadang pada REST API bisa membuat server crash A.K.A Internal Server Error untuk lebih jelasnya bisa di lihat pada link berikut teknik fuzzing pada REST API 
 </p>
+
+[![Fuzzing](https://img.youtube.com/vi/Gb3Lb4gRtXk/0.jpg)](https://www.youtube.com/embed/Gb3Lb4gRtXk)
+
 &nbsp;
 ---
 
