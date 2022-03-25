@@ -29,3 +29,10 @@
 ---
 1. [find-c2](https://wahyuhadi.github.io/me/Blog/c2-detection-with-jarm)  -  c2-detection
 - <p style="text-align: justify; letter-spacing: 0.002em;"> Scanning with JARM provides the ability to identify and group malicious servers on the Internet.</p>
+
+
+&nbsp; 
+### DWM
+---
+1. [find-c2](https://wahyuhadi.github.io/me/Blog/java-apps-dwm-size)  -  fixing java desktop in  DWM
+- <p style="text-align: justify; letter-spacing: 0.002em;"> Fixing Java Size in DWM.</p>
