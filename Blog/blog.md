@@ -34,5 +34,5 @@
 &nbsp; 
 ### DWM
 ---
-1. [find-c2](https://wahyuhadi.github.io/me/Blog/java-apps-dwm-size)  -  fixing java desktop in  DWM
+1. [fixing-size-dwm](https://wahyuhadi.github.io/me/Blog/java-apps-dwm-size)  -  fixing java desktop in  DWM
 - <p style="text-align: justify; letter-spacing: 0.002em;"> Fixing Java Size in DWM.</p>
