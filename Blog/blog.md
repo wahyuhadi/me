@@ -7,6 +7,8 @@
 - <p style="text-align: justify; letter-spacing: 0.002em;">
 	Jangan berpatokan pada SQLmap saja, anda harus bisa custome payload sendiri khusus untuk serangan ini .
   </p>
+
+
 &nbsp; 
 ### Secure Code
 ----
