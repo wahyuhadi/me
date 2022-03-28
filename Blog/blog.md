@@ -1,6 +1,13 @@
 # My Blog
 ---
 &nbsp; 
+### Penetration Testing
+---
+1. [Sql-Injection](https://wahyuhadi.github.io/me/Blog/Sql-Injection) - SQL injection (bahasa indonesia)
+- <p style="text-align: justify; letter-spacing: 0.002em;">
+	Jangan berpatokan pada SQLmap saja, anda harus bisa custome payload sendiri khusus untuk serangan ini .
+  </p>
+&nbsp; 
 ### Secure Code
 ----
 1. [secure-code-hardcode-cred](https://wahyuhadi.github.io/me/Blog/secure-code-hardcode-cred) - Hardcode Credential
