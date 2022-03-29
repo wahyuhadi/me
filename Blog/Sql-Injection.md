@@ -3,7 +3,7 @@
 &nbsp;
 ## Pembukaan
 <p style="text-align: justify; letter-spacing: 0.002em;">
-SQL Injection bug yang akan terus ada . Pada kali ini ijinkan saya menceritakan kasus unik saat saya melakukan Pentesting pada sebuah aplikasi, dimana pada kasus ini melibatkan kejelian melihat potensi bug yang tersembunyi, dimana tools automation seperti sqlmap tidak dapat mendeteksi kasus seperti ini dimana untuk melakukan serangan harus mampu mendetion payload berupa SQL-Query yang mampu tereksekusi secara sempurna pada backend applikasi tersebut, kenapa harus bisa dieksekusi secara sempurna ??, karena pada kasus ini kita berhadapan dengan BLIND SQL-Injection.
+SQL Injection bug yang akan terus ada . Pada kali ini ijinkan saya menceritakan kasus unik saat saya melakukan Pentesting pada sebuah aplikasi, dimana pada kasus ini melibatkan kejelian melihat potensi bug yang tersembunyi, dimana tools automation seperti sqlmap tidak dapat mendeteksi kasus seperti ini dimana untuk melakukan serangan harus mampu membuat payload berupa SQL-Query yang mampu tereksekusi secara sempurna pada backend applikasi tersebut, kenapa harus bisa dieksekusi secara sempurna ??, karena pada kasus ini kita berhadapan dengan BLIND SQL-Injection.
 </p>
 
 * Untuk lebih jelasnya perhtikan raw request bodu berikut
@@ -279,7 +279,6 @@ jika success maka table users akan terhapus, tidak hanya itu kita bisa mendesign
 ## Kesimpulan
 
 * Pentest tidak cukup hanya mengandalkan tools 
-
-
+* Sebaiknya gunakan ORM atau validasi inputan dati client, sebelum memasukan menjadi bagian dari query
 
 Thanks
