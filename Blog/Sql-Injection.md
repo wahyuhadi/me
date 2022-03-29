@@ -150,7 +150,7 @@ Nah kenapa bisa error 500 , itu menandakan columns loloxxxooaallaoas tidak ada p
 </p>
 
 &nbsp;
-## Desaign Payload
+## Build Payload
 <p style="text-align: justify; letter-spacing: 0.002em;">
 Bagian ini adalah bagian yang paling seru karena menentukan sukses atau tidaknya sebuah serangan yang akan kita design pelurunya. Oke lanjut saja pada bagian saya mencoba melakukan analisa lanjutan denganc cara menanamkan payload yang sudah ada SQL Query didalamnya 
 </p>
@@ -274,3 +274,12 @@ SELECT * FROM sometable ORDER BY id LIMIT 10 OFFSET 0+(CASE WHEN((DROP TABLE use
 <p style="text-align: justify; letter-spacing: 0.002em;">
 jika success maka table users akan terhapus, tidak hanya itu kita bisa mendesign subquery untuk melakukan serangan.
 </p>
+
+&nbsp;
+## Kesimpulan
+
+* Pentest tidak cukup hanya mengandalkan tools 
+
+
+
+Thanks
