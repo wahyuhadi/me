@@ -279,6 +279,6 @@ jika success maka table users akan terhapus, tidak hanya itu kita bisa mendesign
 ## Kesimpulan
 
 * Pentest tidak cukup hanya mengandalkan tools 
-* Sebaiknya gunakan ORM atau validasi inputan dati client, sebelum memasukan menjadi bagian dari query
+* Sebaiknya gunakan ORM atau validasi inputan dari client, sebelum memasukan menjadi bagian dari query
 
 Thanks
