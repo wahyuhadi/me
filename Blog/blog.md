@@ -21,7 +21,8 @@
 ---
 1. [build-security-code-scanner-rule](https://wahyuhadi.github.io/me/Blog/build-security-code-scanner-rule)    -  Semgrep
 - <p style="text-align: justify; letter-spacing: 0.002em;"> Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. </p>
-
+2. [Semgrep-in-CI/CD](https://wahyuhadi.github.io/me/Blog/semgrep-in-ci)  -  Semgrep-ci
+- <p style="text-align: justify; letter-spacing: 0.002em;"> Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. </p>
 
 &nbsp; 
 ### DEBUGGING
